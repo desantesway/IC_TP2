@@ -1,6 +1,6 @@
 # Reactive Systems & Concurrency Modeling (Second Assignment)
 
-**Grade: 16/20** 🎯
+## **Grade: 16/20** 🎯
 
 This repository contains my solutions for the practical assignment of the **Interaction and Concurrency** course. The project involved the formal modeling and analysis of concurrent systems, leveraging theoretical concepts and the mCRL2 toolset for verification.
 
